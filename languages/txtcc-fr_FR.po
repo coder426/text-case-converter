@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Text Case Converter 1.0\n"
+"POT-Creation-Date: 2020-07-23 17:55+0530\n"
+"PO-Revision-Date: 2020-07-23 17:57+0530\n"
+"Last-Translator: \n"
+"Language-Team: hwxteam\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_html_e;esc_attr;"
+"esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: txtcc.php:66
+msgid "Uppercase"
+msgstr "Majuscule"
+
+#: txtcc.php:67
+msgid "lowercase"
+msgstr "minuscule"
+
+#: txtcc.php:68
+msgid "Capitalize"
+msgstr "Capitaliser"
+
+#: txtcc.php:69
+msgid "Sentence"
+msgstr "Phrase"
+
+#: txtcc.php:70
+msgid "Invert Case"
+msgstr "Inverser le cas"
+
+#: txtcc.php:71
+msgid "Alternate Case"
+msgstr "Cas alternatif"
+
+#: txtcc.php:72
+msgid "Insert dummy text"
+msgstr "Insérer un texte factice"
+
+#: txtcc.php:73
+msgid "Subscript"
+msgstr "Indice"
+
+#: txtcc.php:74
+msgid "Superscript"
+msgstr "Exposant"
+
+#: txtcc.php:75
+msgid "Download Text"
+msgstr "Télécharger le texte"
+
+#: txtcc.php:76
+msgid "Clean"
+msgstr "Nettoyer"
+
+#: txtcc.php:77
+msgid "Copy To clipboard"
+msgstr "Copier dans le presse-papier"
+
+#: txtcc.php:78
+msgid "Add break in content"
+msgstr "Ajouter une pause dans le contenu"
+
+#: txtcc.php:79
+msgid "Calculator"
+msgstr "Calculatrice"
+
+#: txtcc.php:80
+msgid "Address"
+msgstr "Adresse"
+
+#: txtcc.php:81
+msgid "Short Quotation"
+msgstr "Devis court"
+
+#: txtcc.php:82
+msgid "Abbreviation"
+msgstr "Abréviation"
+
+#: txtcc.php:83
+msgid "Highlight text"
+msgstr "Texte surligné"
+
+#: txtcc.php:84
+msgid "Enter the title attribute"
+msgstr "Entrez l'attribut title"
+
+#: txtcc.php:85
+msgid "Title"
+msgstr "Titre"
+
+#: txtcc.php:86
+msgid "Synonyms"
+msgstr "Synonymes"
+
+#: txtcc.php:87
+msgid "Add synonyms"
+msgstr "Ajouter des synonymes"
+
+#: txtcc.php:88
+msgid "Audio"
+msgstr "l'audio"
+
+#: txtcc.php:89
+msgid "Add audio"
+msgstr "Ajouter de l'audio"
+
+#: txtcc.php:90
+msgid "Audio src"
+msgstr "SRC audio"
+
+#: txtcc.php:91
+msgid "Tool Tip"
+msgstr "Info-bulle"
+
+#: txtcc.php:92
+msgid "Tool Tip Text"
+msgstr "Texte de l'info-bulle"
+
+#: txtcc.php:93
+msgid "video"
+msgstr "vidéo"
+
+#: txtcc.php:94
+msgid "Add video"
+msgstr "Ajouter une vidéo"
+
+#: txtcc.php:95
+msgid "video src"
+msgstr "vidéo src"
