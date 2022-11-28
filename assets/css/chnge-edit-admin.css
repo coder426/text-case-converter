@@ -4,7 +4,12 @@
     background: #fff;
     border: 1px solid #ddd;
     box-shadow: inset 0 1px 1px -1px rgba(0,0,0,.2);}
-    .text_count{font-size: 12px;text-align: center;color: #000;font-family: sans-serif;}
+    .text_count{
+        font-size: 12px;
+        text-align: center;
+        color: #000;
+        font-family: sans-serif;
+    }
     .mce-btn_style span{
     	font-size: 15px;
     font-weight: 700;
